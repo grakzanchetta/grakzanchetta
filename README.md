@@ -1,11 +1,11 @@
 <div align="center">
 <h1> Hello! Welcome to my Github profile!</h1>
 <br>
-<img src="https://c.tenor.com/X4i9UfhS69QAAAAC/ed-cowboy.gif" alt="Ed's in a PC"/>
+<img src="https://c.tenor.com/X4i9UfhS69QAAAAC/ed-cowboy.gif" width="240" height="180" alt="Ed's in a PC"/>
 <br>
 </div>
 <br>
-
+<h3>
 🔭 My name is <b>Gabriel Rak Zanchetta</b>, and I'm born in São Paulo, Brazil. I have 33 years old and actually I'm studying software engineering at Driven School of Technology.
 <p></p>
 🌱 I'm currently learning how to work with <a href="https://www.prisma.io/">Prisma Orm</a>, and tools for testing code, like <a href="https://jestjs.io/pt-BR/">Jest</a> and <a href="https://www.cypress.io/">Cypress</a>. And in the past months I used and/or learned the technologies listed below:
@@ -29,8 +29,7 @@
 💬 Feel free to ask me about anything! I'm always willing to help other code colleagues when I know how to do that!
 
 ⚡ Fun fact: I will tatto a cat in my right arm in the future.
-
-
+</h3>
 
 
 
