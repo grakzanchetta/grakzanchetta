@@ -29,6 +29,6 @@
 
 👯 Tenho completa disposição para aprender novas linguagens e tecnologias! Acho uma das partes mais divertidas desse mundo da programação. Além da parte de desenvolvimento web eu tenho um interesse secundário na área de sistemas operacionais e tenho a intenção de me envolver nisso como hobby/atividade secundária num futuro próximo (além da minha intenção de fazer aulas de teatro).
 
-💬 Sinta-se à vontade para me perguntar sobre o que quiser! Sempre ajudo colegas de código quando posso. E quando não posso também...
+💬 Sinta-se à vontade para me perguntar sobre o que quiser! Sempre ajudo colegas de código quando posso. E quando não posso também... Meu email é grakzanchetta@gmail.com
 
 ⚡ Peculiaridade: Quero tatuar um gato no meu braço direito no futuro.
