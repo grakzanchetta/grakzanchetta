@@ -1,14 +1,14 @@
 <div align="center">
-<h1> Hello! Welcome to my Github profile!</h1>
+<h1> Olá! Sejam bem vindos e bem vindas ao meu perfil!</h1>
 <br>
 <img src="https://c.tenor.com/X4i9UfhS69QAAAAC/ed-cowboy.gif" width="240" height="180" alt="Ed's in a PC"/>
 <br>
 </div>
 <br>
 
-🔭 My name is <b>Gabriel Rak Zanchetta</b>, and I'm born in São Paulo, Brazil. I have 33 years old and actually I'm studying software engineering at Driven School of Technology.
+🔭 Meu nome é <b>Gabriel Rak Zanchetta</b>, e vivo na cidade de São Paulo, Brasil. Tenho 33 anos de idade e atualmente estou estudando Engenharia de Software na <a href="https://www.driven.com.br/">Driven - Escola de Tecnologia</a>.
 <p></p>
-🌱 I'm currently learning how to work with <a href="https://www.prisma.io/">Prisma Orm</a>, and tools for testing code, like <a href="https://jestjs.io/pt-BR/">Jest</a> and <a href="https://www.cypress.io/">Cypress</a>. And in the past months I used and/or learned the technologies listed below:
+🌱 No momento estou aprendendo noções básicas de DevOps, mais especificamente, containers com Docker, CI/CD com GitHub Actions e Deploy usando a Amazon Web Services (AWS). E nos ultimos meses aprendi as tecnologias listadas abaixo:
 <p></p>
 
 <div align="center">
@@ -21,11 +21,14 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
 </div>
 <p></p>
 
-👯 Besides the Web Development area I have some minor interest in operational systems. In the future I want to learn more about that and collaborate with some open source projects.
+👯 Tenho completa disposição para aprender novas linguagens e tecnologias! Acho uma das partes mais divertidas desse mundo da programação. Além da parte de desenvolvimento web eu tenho um interesse secundário na área de sistemas operacionais e tenho a intenção de me envolver nisso como hobby/atividade secundária num futuro próximo (além da minha intenção de fazer aulas de teatro).
 
-💬 Feel free to ask me about anything! I'm always willing to help other code colleagues when I know how to do that!
+💬 Sinta-se à vontade para me perguntar sobre o que quiser! Sempre ajudo colegas de código quando posso. E quando não posso também...
 
-⚡ Fun fact: I will tatoo a cat in my right arm in the future.
+⚡ Peculiaridade: Quero tatuar um gato no meu braço direito no futuro.
