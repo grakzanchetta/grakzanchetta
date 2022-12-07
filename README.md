@@ -8,7 +8,7 @@
 
 🔭 Meu nome é <b>Gabriel Rak Zanchetta</b>, e vivo na cidade de São Paulo, Brasil. Tenho 33 anos de idade e atualmente estou estudando Engenharia de Software na <a href="https://www.driven.com.br/">Driven - Escola de Tecnologia</a>.
 <p></p>
-🌱 No momento estou aprendendo noções básicas de DevOps, mais especificamente, containers com Docker, CI/CD com GitHub Actions e Deploy usando a Amazon Web Services (AWS). E nos ultimos meses aprendi as tecnologias listadas abaixo:
+🌱 No momento estou aprendi noções básicas de DevOps, mais especificamente, containers com Docker, CI/CD com GitHub Actions e Deploy usando a Amazon Web Services (AWS). E nos ultimos meses aprendi as tecnologias listadas abaixo:
 <p></p>
 
 <div align="center">
