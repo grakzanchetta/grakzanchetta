@@ -1,6 +1,8 @@
 Depois que o Github Roaster me roasteou tive um acesso semelhante ao de cortar curto o cabelo frente à uma crise de Ansiedade. 
 
-Então o fiz.
+Então o fiz, repositórios deletados.
+
+Talvez eu comece algo novo, ou não.
 
 <!--
 **grakzanchetta/grakzanchetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
