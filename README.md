@@ -1,4 +1,6 @@
-## Hi there 👋
+Depois que o Github Roaster me roasteou tive um acesso semelhante ao de cortar curto o cabelo frente à uma crise de Ansiedade. 
+
+Então o fiz.
 
 <!--
 **grakzanchetta/grakzanchetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
